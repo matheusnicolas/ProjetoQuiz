@@ -1,0 +1,24 @@
+QUESTÃOVF
+rio tinto é
+vvv
+3.0
+Q0
+3
+1 - (   ) show
+2 - (   ) massa
+3 - (   ) demais
+QUESTÃODISSERTATIVA
+Rio Tinto é localizada em qual estado brasileiro?
+Paraiba
+5.0
+Q1
+Nordeste
+QUESTÃOVF
+ufpb campus iv é
+vvv
+10.0
+q8
+3
+1 - (   ) foda
+2 - (   ) show
+3 - (   ) massa demais

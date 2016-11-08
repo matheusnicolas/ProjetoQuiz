@@ -1,0 +1,96 @@
+fff
+Matheus
+QUESTÃOVF
+rio tinto é
+vvv
+3.0
+Q0
+0
+pb
+Matheus
+QUESTÃODISSERTATIVA
+Rio Tinto é localizada em qual estado brasileiro?
+Paraiba
+5.0
+Q1
+Nordeste
+vvv
+man
+QUESTÃOVF
+rio tinto é
+vvv
+3.0
+Q0
+0
+paraiba
+man
+QUESTÃODISSERTATIVA
+Rio Tinto é localizada em qual estado brasileiro?
+Paraiba
+5.0
+Q1
+Nordeste
+vvv
+Matheus
+QUESTÃOVF
+rio tinto é
+vvv
+3.0
+Q0
+0
+paraiba
+Matheus
+QUESTÃODISSERTATIVA
+Rio Tinto é localizada em qual estado brasileiro?
+Paraiba
+5.0
+Q1
+Nordeste
+vvv
+Manu
+QUESTÃOVF
+rio tinto é
+vvv
+3.0
+Q0
+0
+paraiba
+Manu
+QUESTÃODISSERTATIVA
+Rio Tinto é localizada em qual estado brasileiro?
+Paraiba
+5.0
+Q1
+Nordeste
+vvv
+Manu
+QUESTÃOVF
+ufpb campus iv é
+vvv
+10.0
+q8
+0
+1
+3
+QUESTÃOVF
+rio tinto é
+vvv
+3.0
+Q0
+0
+1
+3
+QUESTÃODISSERTATIVA
+Rio Tinto é localizada em qual estado brasileiro?
+Paraiba
+5.0
+Q1
+Nordeste
+1
+3
+QUESTÃOVF
+ufpb campus iv é
+vvv
+10.0
+q8
+0
